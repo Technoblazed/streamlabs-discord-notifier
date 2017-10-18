@@ -1,0 +1,12 @@
+module.exports = {
+  discord: {
+    botToken: '<BOT ACCOUNT TOKEN>',
+    postTo: [
+      '<DISCORD CHANNEL ID>'
+    ]
+  },
+  streamlabs: {
+    channel: '<CHANNEL NAME>',
+    token: '<SOCKET API TOKEN>'
+  }
+};

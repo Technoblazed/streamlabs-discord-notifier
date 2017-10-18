@@ -1,0 +1,29 @@
+{
+  "name": "streamlabs-discord-notifier",
+  "version": "1.0.0",
+  "description": "streamlabs-discord-notifier",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "nodejs app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Technoblazed/streamlabs-discord-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Technoblazed/streamlabs-discord-notifier/issues"
+  },
+  "homepage": "https://github.com/Technoblazed/streamlabs-discord-notifier#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.9.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "lodash": "^4.17.4",
+    "socket.io-client": "^2.0.3"
+  }
+}
