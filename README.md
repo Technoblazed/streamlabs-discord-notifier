@@ -17,5 +17,5 @@
   - `streamlabs.token` - Streamlabs socket API token. You can either create an oauth system to get this, or just grab your account one from [here](https://streamlabs.com/dashboard#/apisettings) and visit the API Tokens menu. Use the Socket API token.
 6. Invite the Discord bot to your server using the following link, replacing `<CLIENT_ID>` with the Client ID of your bot.  
 
- `https://discordapp.com/oauth2/authorize?client_id=<CLIENT_ID>&scope=bot&permissions=19456`
+ `https://discordapp.com/oauth2/authorize?client_id=<CLIENT_ID>&scope=bot&permissions=19456`  
 7. `npm start`
